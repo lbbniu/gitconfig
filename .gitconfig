@@ -1,0 +1,9 @@
+[user]
+    name = lbbniu
+    email = lbbniu@gmail.com
+[core]
+    excludesfile = ~/github/gitconfig/.gitignore_global
+[includeIf "gitdir:~/github/"]
+    path = ~/github/gitconfig/.gitconfig-github
+[includeIf "gitdir:~/tal/"]
+    path = ~/github/gitconfig/.gitconfig-tal
