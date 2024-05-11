@@ -15,3 +15,5 @@ Add the following code to the ~/.gitconfig
 [include]
     path = ~/github/gitconfig/.gitconfig
 ```
+## 参考
+- [https://baijunyao.com/articles/223](https://baijunyao.com/articles/223)
